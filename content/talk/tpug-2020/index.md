@@ -17,7 +17,7 @@ location = "San Diego, California"
 
 # Name of event and optional event URL.
 event = "Transportation and Public Utilities Group & American Economic Association"
-event_url = "https://www.aeaweb.org/conference/2020/preliminary/1955?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArN7koMRXITUmshIpn5qZCWGWZqeUgM4oKCoACpgZKtbVcMNyEHWA,"
+event_url = "https://www.aeaweb.org/conference/2020/preliminary/1955"
 
 # Abstract. What's your talk about?
 abstract = ""

@@ -17,7 +17,7 @@ location = "San Diego, California"
 
 # Name of event and optional event URL.
 event = "International Association for Energy Economics (ASSA Annual Meeting)"
-event_url = "https://www.aeaweb.org/conference/2020/preliminary/2213?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArN7koMRXITUmshIpn5qZCWGWZqeUgM4oKCoACpgYgAwoS00GyQDZcMC73IBs,"
+event_url = "https://www.aeaweb.org/conference/2020/preliminary/2213"
 
 # Abstract. What's your talk about?
 abstract = ""

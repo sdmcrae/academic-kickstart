@@ -1,23 +1,23 @@
 +++
-title = "University of California, Davis"
+title = "Environment for Development Initiative 13th Annual Meeting"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-10-30
+date = 2019-11-23
 all_day = true
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-05-14T23:28:31-04:00
+publishDate = 2019-11-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
 # Location of event.
-location = "Davis, California"
+location = "Bogotá, Colombia"
 
 # Name of event and optional event URL.
-event = "Seminar visit"
-event_url = ""
+event = "Environment for Development Initiative 13th Annual Meeting"
+event_url = "https://efdinitiative.org/news/events/13th-annual-meeting-efd-colombia"
 
 # Abstract. What's your talk about?
 abstract = ""

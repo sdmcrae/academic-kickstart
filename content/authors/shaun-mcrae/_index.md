@@ -77,7 +77,7 @@ user_groups = ["Researchers"]
 
 [[social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/shaun-mcrae-b6bb9281/"
     
 # Link to a PDF of your resume/CV from the About widget.
